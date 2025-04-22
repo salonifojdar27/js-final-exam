@@ -14,4 +14,6 @@ A powerful, interactive platform for tracking and analyzing global COVID-19 tren
 
 ✅ Exportable Reports – Generate PDF/CSV reports for research, journalism, or public health use.
 
+https://github.com/user-attachments/assets/f68bd4a3-7ec5-4293-92b6-e19610540082
+
 
